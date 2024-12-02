@@ -45,6 +45,7 @@ AdventOfCode24/<br>
 │   └── main.exe           # Compiled executable for Part 1 & Part 2<br>
 
 ## How to Run
+To run the solutions, follow these steps:
 Clone the repository:
 
 git clone https://github.com/SejDreng/AdventOfCode24.git
