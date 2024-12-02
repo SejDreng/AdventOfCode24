@@ -21,13 +21,13 @@ In this repository:
 
 Here’s the structure of the repository:
 
-AdventOfCode24/
-├── .vscode/                  # VSCode configuration files
-│   ├── c_cpp_properties.json
-│   ├── launch.json
-│   ├── settings.json
-│   └── tasks.json
-├── December 1st/             # Solutions for December 1st
+AdventOfCode24/<br>
+├── .vscode/                  # VSCode configuration files<br>
+│   ├── c_cpp_properties.json<br>
+│   ├── launch.json<br>
+│   ├── settings.json<br>
+│   └── tasks.json<br>
+├── December 1st/             # Solutions for December 1st<br>
 │   ├── Part1/
 │   │   └── part1_1.cpp        # Solution for Part 1
 │   ├── Part2/
