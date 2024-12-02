@@ -44,7 +44,7 @@ AdventOfCode24/<br>
 │   ├── input.txt          # Input data for the challenge<br>
 │   └── main.exe           # Compiled executable for Part 1 & Part 2<br>
 
-How to Run
+## How to Run
 Clone the repository:
 
 git clone https://github.com/SejDreng/AdventOfCode24.git
