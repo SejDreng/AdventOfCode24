@@ -28,21 +28,21 @@ AdventOfCode24/<br>
 │   ├── settings.json<br>
 │   └── tasks.json<br>
 ├── December 1st/             # Solutions for December 1st<br>
-│   ├── Part1/
-│   │   └── part1_1.cpp        # Solution for Part 1
-│   ├── Part2/
-│   │   └── part2_1.cpp        # Solution for Part 2
-│   ├── main.cpp           
-│   ├── input.txt          # Input data for the challenge
-│   └── main.exe           # Compiled executable for Part 1 & Part 2
-├── December 2nd/             # Solutions for December 2nd
-│   ├── Part1/
-│   │   └── part1_2.cpp        # Solution for Part 1
-│   ├── Part2/
-│   │   └── part2_2.cpp        # Solution for Part 2
-│   ├── main.cpp          
-│   ├── input.txt          # Input data for the challenge
-│   └── main.exe           # Compiled executable for Part 1 & Part 2
+│   ├── Part1/<br>
+│   │   └── part1_1.cpp        # Solution for Part 1<br>
+│   ├── Part2/<br>
+│   │   └── part2_1.cpp        # Solution for Part 2<br>
+│   ├── main.cpp           <br>
+│   ├── input.txt          # Input data for the challenge<br>
+│   └── main.exe           # Compiled executable for Part 1 & Part 2<br>
+├── December 2nd/             # Solutions for December 2nd<br>
+│   ├── Part1/<br>
+│   │   └── part1_2.cpp        # Solution for Part 1<br>
+│   ├── Part2/<br>
+│   │   └── part2_2.cpp        # Solution for Part 2<br>
+│   ├── main.cpp          <br>
+│   ├── input.txt          # Input data for the challenge<br>
+│   └── main.exe           # Compiled executable for Part 1 & Part 2<br>
 
 How to Run
 Clone the repository:
