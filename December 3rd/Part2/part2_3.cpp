@@ -11,10 +11,9 @@ int part2(){
     std::string line;
     std::ifstream file("input.txt");
     std::regex pattern1(R"(don't\(\)|mul\((\d+),(\d+)\)|do\(\))");
-    
+
     int tot = 0;
     bool do_flag = true;
-    bool dont_flag = false;
 
     while(std::getline(file, line)){
 
@@ -26,13 +25,11 @@ int part2(){
 
             if(match_1[0] == "do()"){
                 do_flag = true;
-                dont_flag = false;
                 it_1++;
                 continue;
             }
             else if(match_1[0] == "don't()"){
                 do_flag = false;
-                dont_flag = true;
                 it_1++;
                 continue;
             }
