@@ -116,6 +116,9 @@
     "optional": "cpp",
     "string_view": "cpp",
     "numbers": "cpp",
-    "cinttypes": "cpp"
+    "cinttypes": "cpp",
+    "bitset": "cpp",
+    "ctime": "cpp",
+    "regex": "cpp"
   }
 }
