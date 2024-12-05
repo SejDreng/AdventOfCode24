@@ -24,8 +24,6 @@ bool double_checker(std::vector<std::string>& lines, int lineNum, int indx, char
 
     for(int i = 0; i < indexing_matrix.size(); i++){
         if(check_other_line2(lines, lineNum + indexing_matrix[i][0], indx + indexing_matrix[i][1], letter) && check_other_line2(lines, lineNum + indexing_matrix[(i+1)%4][0], indx + indexing_matrix[(i+1)%4][1], letter)){
-            std::cout << "Found at " << indexing_matrix[i][0] << " " << indexing_matrix[i][1] << std::endl;
-            std::cout << "and " << indexing_matrix[(i+1)%4][0] << " " << indexing_matrix[(i+1)%4][1] << std::endl;
             return true;
         }
     }
