@@ -32,7 +32,7 @@ int part2(){
                 do_flag = false;
                 it_1++;
                 continue;
-            }
+            }   
             if(do_flag){
                 try {
                     int num1 = std::stoi(match_1[1].str());
