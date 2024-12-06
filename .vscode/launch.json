@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Github_repositories/AdventOfCode24/December 4th",
-      "program": "d:/Github_repositories/AdventOfCode24/December 4th/build/Debug/outDebug",
+      "cwd": "c:/GitHub/AdventOfCode24/December 5th",
+      "program": "c:/GitHub/AdventOfCode24/December 5th/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
