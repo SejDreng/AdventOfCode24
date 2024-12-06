@@ -3,7 +3,6 @@
 
 int main(){
     part1();
-    std::cout << std::endl;
-    // part2();
+    part2();
     return 0;
 }   

@@ -53,12 +53,12 @@ int part2(){
         while (pos < line.size()) {
 
             while (pos < line.size() && line[pos] == ' ') {
-                ++pos;
+                pos++;
             }
 
             size_t endPos = pos;
             while (endPos < line.size() && line[endPos] != ' ') {
-                ++endPos;
+                endPos++;
             }
 
             if (pos < endPos) {
